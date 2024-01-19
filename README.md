@@ -1,3 +1,4 @@
-# secASEM1
-THIS IS SEC A
-Hello
+# prajkta sem 2
+Hi!
+THIS IS SEC A.
+
