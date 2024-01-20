@@ -2,5 +2,5 @@
 
 1st year
 
-THIS IS SEC A
+THIS IS SEC A.
 
